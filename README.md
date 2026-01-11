@@ -58,18 +58,26 @@ Aspiring AI Engineer | Intelligent Systems | AI Agents
 </p>
 
 ---
+## 🧰 Foundational Tech Stacks
+
+Core technologies used to build reliable AI-powered systems
+
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" title="HTML5" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" title="CSS3" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" title="JavaScript" style="margin: 10px;" /> </p> <p align="center"> <img src="https://img.shields.io/badge/UI%20for%20AI-Dashboards%20%7C%20Admin%20Panels-00FFCC?style=flat-square"/> </p>
+
+## 🗄️ Database Design & Data Layer
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" title="SQL / MySQL" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" title="PostgreSQL" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" title="MongoDB" style="margin: 10px;" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Database%20Design-Optimized%20%26%20Scalable-00FFCC?style=flat-square"/> </p>
+
 
 ### ☁️ AI Infrastructure & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
 </p>
 
 ---
 
-## 📌 Featured AI Projects
+## Featured AI Projects
  
-
 🤖 **Multi-Agent Smart Healthcare Queue & Triage System**  
 → AI agents for patient triage  
 → Intelligent queue optimization  
