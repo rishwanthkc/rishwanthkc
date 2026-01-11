@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Rishi</h1>
 
 <h3 align="center">
-Aspiring AI Engineer | Intelligent Systems | AI Agents
+Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
 </h3>
 
 <p align="center">
