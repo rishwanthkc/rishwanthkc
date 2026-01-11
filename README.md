@@ -98,5 +98,5 @@ My focus areas:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FFCC&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=rishwanthkc&color=00FFCC&style=flat-square"/>
 </p>
