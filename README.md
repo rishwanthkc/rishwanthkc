@@ -10,7 +10,7 @@ Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFCC&center=true&width=600&lines=Building+Intelligent+Systems;AI+Agents+%26+Multimodal+LLMs;Production-Ready+AI+Backends;Problem+Solver+%7C+System+Thinker" />
 </p>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -23,7 +23,7 @@ Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
   </a>
 </p>
 
----
+
 
 ## 🧠 AI Engineering Arsenal
 
@@ -47,7 +47,7 @@ Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
 
 </p>
 
----
+
 
 ### 🧩 Problem Solving & Foundations
 
@@ -57,7 +57,7 @@ Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
   <img src="https://img.shields.io/badge/System%20Design-Fundamentals-00FFCC?style=flat-square"/>
 </p>
 
----
+
 ## 🧰 Foundational Tech Stacks
 
 Core technologies used to build reliable AI-powered systems
@@ -74,7 +74,7 @@ Core technologies used to build reliable AI-powered systems
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
 </p>
 
----
+
 
 ## Featured AI Projects
  
@@ -91,7 +91,7 @@ Core technologies used to build reliable AI-powered systems
 🚀 **AI Agents & Multimodal LLM Optimization**  
 → Real-world problem solving using intelligent agents  
 
----
+
 
 ## 🎯 Engineering Focus
 
@@ -103,8 +103,14 @@ My focus areas:
 - Building scalable, production-ready AI backends
 - Strong problem-solving & system fundamentals
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishwanthkc&color=00FFCC&style=flat-square"/>
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=40&fontAlignY=70&animation=twinkling" />
+</div>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/rishwanthkc">rishwanthkc</a> | Building the future with AI, one commit at a time 🚀</sub>
+</div>
