@@ -10,26 +10,12 @@ Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFCC&center=true&width=600&lines=Building+Intelligent+Systems;AI+Agents+%26+Multimodal+LLMs;Production-Ready+AI+Backends;Problem+Solver+%7C+System+Thinker" />
 </p>
 
-
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishwanthkc/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="rishwanthkc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
-
-
 ## 🧠 AI Engineering Arsenal
 
 *Focused on intelligent systems, AI agents & production-grade architectures*
 
 
-### 🤖 Core AI & Intelligent Systems (Hover Enabled SVGs)
+### 🤖 Core AI & Intelligent Systems
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" title="Python for AI"/>
@@ -109,7 +95,6 @@ Core technologies used to build reliable AI-powered systems
 </p>
 
 
-
 ### 🔧 Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -152,6 +137,17 @@ My focus areas:
 - Solving real-world problems using ML & LLMs
 - Building scalable, production-ready AI backends
 - Strong problem-solving & system fundamentals
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishwanthkc/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=neon"/>
+  </a>
+  <a href="rishwanthkc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00FFCC?style=for-the-badge&logo=gmail&logoColor=neon"/>
+  </a>
+</p>
 
 ### 💡 Open to Collaboration!
 
