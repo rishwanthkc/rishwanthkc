@@ -1,167 +1,170 @@
-<!-- ================= HEADER ================= -->
+<div align="center">
 
-<h1 align="center">Hey 👋, I'm Rishi</h1>
+<br/>
 
-<h3 align="center">
-Full Stack Developer | Aspiring AI Engineer | Intelligent Systems | AI Agents
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFCC&center=true&width=600&lines=Building+Intelligent+Systems;AI+Agents+%26+Multimodal+LLMs;Production-Ready+AI+Backends;Problem+Solver+%7C+System+Thinker" />
+<!-- Eyebrow -->
+<p>
+<img src="https://img.shields.io/badge/Software%20Engineer-111111?style=flat-square&labelColor=111111&color=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Engineer-111111?style=flat-square&labelColor=111111&color=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/Chennai%2C%20India-111111?style=flat-square&labelColor=111111&color=111111" />
 </p>
 
-## 🧠 AI Engineering Arsenal
+# Rishwanth KC
 
-*Focused on intelligent systems, AI agents & production-grade architectures*
+### Building production software and intelligent systems —<br/>from scalable APIs to LLM agents that reason and act.
 
+<br/>
 
-### 🤖 Core AI & Intelligent Systems
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=18&pause=2000&color=6E6E73&center=true&width=600&lines=Software+Engineer+%C2%B7+AI+Engineer;FastAPI+%7C+Flask+%7C+Java+%7C+MySQL;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;LSTM+%2B+GNN+%7C+Spatio-temporal+ML;Oracle+Certified+%7C+2%C3%97+Production+Internships" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" title="Python for AI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" title="TensorFlow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" title="PyTorch"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-Production--Ready-00FFCC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Reasoning-Optimized-00FFCC?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Multimodal%20AI-Text%20%7C%20Vision-00FFCC?style=for-the-badge"/>
-
-
-</p>
-
-
-## 🧰 🛠️ Tech Stack & Tools
-
-Core technologies used to build reliable AI-powered systems
-
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" title="HTML5" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" title="CSS3" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" title="JavaScript" style="margin: 10px;" /> </p> <p align="center"> <img src="https://img.shields.io/badge/UI%20for%20AI-Dashboards%20%7C%20Admin%20Panels-00FFCC?style=flat-square"/> </p>
-
-## 🗄️ Database Design & Data Layer
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" title="SQL / MySQL" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" title="PostgreSQL" style="margin: 10px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" title="MongoDB" style="margin: 10px;" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Database%20Design-Optimized%20%26%20Scalable-00FFCC?style=flat-square"/> </p>
-
-
-### ☁️ AI Infrastructure & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" />
-</p>
-
-
-### Core Languages & ML Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</p>
-
-### Data Science & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-### 🤖 Generative AI & LLMs
-<p align="left">
-  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-E74C3C?style=for-the-badge" alt="Agentic Workflows" />
-</p>
-
-### 👁️ Computer Vision & NLP
-<p align="left">
-  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge" alt="YOLOv5" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/CNN--LSTM-FF6F61?style=for-the-badge" alt="CNN-LSTM" />
-  <img src="https://img.shields.io/badge/LSTM-8E44AD?style=for-the-badge" alt="LSTM" />
-</p>
-
-### 🌐 Web Frameworks & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge" alt="RESTful API" />
-</p>
-
-
-### 🔧 Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### 🧩 Problem Solving & Foundations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-Strong-00FFCC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-Problem%20Driven-00FFCC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Design-Fundamentals-00FFCC?style=flat-square"/>
-</p>
-
-
-## Featured AI Projects
- 
-🤖 **Multi-Agent Smart Healthcare Queue & Triage System**  
-→ AI agents for patient triage  
-→ Intelligent queue optimization  
-→ Real-time dashboards  
-→ Production-ready healthcare platform  
-
-🌐 **CHEYYAR ITI – Intelligent Full-Stack Platform**  
-→ AI-assisted workflows  
-→ Scalable backend architecture  
-
-🚀 **AI Agents & Multimodal LLM Optimization**  
-→ Real-world problem solving using intelligent agents  
-
-
-## 🎯 Engineering Focus
-
-I build **intelligent systems**, not just applications.
-
-My focus areas:
-- Designing AI agents that reason & collaborate
-- Solving real-world problems using ML & LLMs
-- Building scalable, production-ready AI backends
-- Strong problem-solving & system fundamentals
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishwanthkc/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=neon"/>
-  </a>
-  <a href="rishwanthkc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FFCC?style=for-the-badge&logo=gmail&logoColor=neon"/>
-  </a>
-</p>
-
-### 💡 Open to Collaboration!
-
-I'm always interested in discussing AI/ML projects, research opportunities, and innovative ideas. Feel free to reach out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0071e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishwanthkc)
+[![Email](https://img.shields.io/badge/Email-0071e3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishwanthkc@gmail.com)
+[![Open to Work](https://img.shields.io/badge/●%20Available-Open%20to%20SWE%20%26%20AI%20Roles-30d158?style=for-the-badge&labelColor=111)](https://linkedin.com/in/rishwanthkc)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishwanthkc&color=00FFCC&style=flat-square"/>
-</p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=40&fontAlignY=70&animation=twinkling" />
-</div>
+---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/rishwanthkc">rishwanthkc</a> | Building the future with AI, one commit at a time 🚀</sub>
+
+| 🎓 **8.89** CGPA | 🏢 **2×** Production Internships | 📜 **2×** Oracle Certified |
+|:---:|:---:|:---:|
+| B.E. Computer Science (AI) | DeepNeuron · OneYes InfoTech | Java SE 11 (OCP) · SQL (OCA) |
+
+</div>
+
+---
+
+## About
+
+I'm a final-year Computer Science (AI) student who ships real software — RESTful APIs, relational database schemas, backend services, and AI pipelines that run in production. I think in architecture before writing a line of code.
+
+**Software engineering first.** Oracle-certified in Java SE 11 and SQL. Two internships where I designed, built, and delivered full systems end-to-end — a Flask billing platform and an enterprise RAG pipeline. Comfortable across the stack: Python, Java, FastAPI, Flask, MySQL, MongoDB.
+
+**AI engineering on top.** I layer intelligence into systems — LangChain/LangGraph agents, RAG pipelines with semantic retrieval, LSTM+GNN fusion for spatio-temporal prediction. Not notebooks. Shipped backends.
+
+---
+
+## Tech Stack
+
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=white)
+
+### Databases & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
+
+### AI / ML Engineering
+![LangChain](https://img.shields.io/badge/🦜_LangChain-000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-000?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikit-learn&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-000?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+## Experience
+
+### AI Engineer Intern · DeepNeuron `2024`
+
+Built and shipped an enterprise RAG pipeline — LangChain orchestration, OpenAI GPT-4, vector store integration with semantic chunking. Delivered as a production backend module.
+
+`LangChain` `OpenAI GPT-4` `RAG` `Vector Store` `FastAPI` `Python`
+
+---
+
+### Software Developer Intern · OneYes InfoTech Solutions `2023`
+
+Designed and delivered a Flask-based billing system from scratch — REST API layer, JWT authentication, MySQL schema design, and a full-stack admin dashboard.
+
+`Flask` `MySQL` `REST API` `JWT` `HTML/CSS/JS`
+
+---
+
+## Projects
+
+### 🛡️ Sentinel — Women's Safety Navigation `Capstone`
+
+Spatio-temporal crime risk prediction using **LSTM + GNN fusion** across 7 Indian cities (NCRB data). Live heatmap on Android (Kotlin), backed by FastAPI + MySQL with H3 spatial indexing.
+
+| Metric | Target |
+|:---|:---|
+| Prediction accuracy | 80%+ |
+| API response latency | < 200ms |
+| Cities covered | 7 (NCRB dataset) |
+
+`LSTM` `GNN` `FastAPI` `MySQL` `Kotlin` `H3 Spatial Index` `Python`
+
+---
+
+### 🏥 Multi-Agent Healthcare Triage System
+
+LangGraph-orchestrated AI agent network for real-time patient triage and intelligent queue optimization. Production-grade architecture with live decision dashboards.
+
+`LangGraph` `LangChain` `FastAPI` `Multi-Agent` `OpenAI` `Streamlit`
+
+---
+
+### 📋 Billing & Operations Platform *(Internship · OneYes InfoTech)*
+
+Full-stack billing system — Flask REST APIs, MySQL backend, JWT auth, admin dashboard. Fully shipped and operational.
+
+`Flask` `MySQL` `REST API` `JWT` `Full-Stack`
+
+---
+
+## Certifications
+
+| ☕ Java SE 11 Developer | 🗄️ Database SQL |
+|:---|:---|
+| **Oracle Certified Professional (OCP)** | **Oracle Certified Associate (OCA)** |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishwanthkc&show_icons=true&hide_border=true&bg_color=000000&title_color=f5f5f7&icon_color=0071e3&text_color=6e6e73&ring_color=0071e3" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishwanthkc&hide_border=true&background=000000&ring=0071e3&fire=0071e3&currStreakLabel=f5f5f7&sideLabels=6e6e73&dates=3a3a3c&currStreakNum=f5f5f7&sideNums=f5f5f7" width="48%" />
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+**Rishwanth KC**
+
+Chennai, India &nbsp;·&nbsp; B.E. Computer Science (AI) &nbsp;·&nbsp; CGPA 8.89
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0071e3?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishwanthkc)
+[![Email](https://img.shields.io/badge/Email-0071e3?style=flat-square&logo=gmail&logoColor=white)](mailto:rishwanthkc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0071e3?style=flat-square&logo=github&logoColor=white)](https://github.com/rishwanthkc)
+
+<img src="https://komarev.com/ghpvc/?username=rishwanthkc&color=0071e3&style=flat-square&label=profile+views" />
+
+<br/><br/>
+
+<sub>Rishwanth KC · Building production software and intelligent systems, one commit at a time.</sub>
+
 </div>
