@@ -107,7 +107,7 @@ Built and shipped an enterprise RAG pipeline — LangChain orchestration, OpenAI
 
 ---
 
-### Software Developer Intern · OneYes InfoTech Solutions &nbsp; `2023`
+### Software Developer Intern · OneYes InfoTech Solutions &nbsp; `2024`
 
 Designed and delivered a Flask billing system from scratch — REST API layer, JWT authentication, MySQL schema design, full-stack admin dashboard for business operations.
 
@@ -120,7 +120,7 @@ Designed and delivered a Flask billing system from scratch — REST API layer, J
 
 ## Projects
 
-### 🛡️ Sentinel — Women's Safety Navigation &nbsp; `Capstone`
+### 🛡️ Sentinel — Women's Safety Navigation &nbsp; 
 
 Spatio-temporal crime risk prediction using **LSTM + GNN fusion** across 7 Indian cities (NCRB data). Live heatmap on Android (Kotlin), backed by FastAPI + MySQL with H3 spatial indexing.
 
